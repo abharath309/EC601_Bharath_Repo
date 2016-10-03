@@ -1,4 +1,4 @@
-#EC601_Bharath_Repo
+#Speech to Text convertor app  **** Working version, needs updates*******
 
 Convert speech to text...
 
